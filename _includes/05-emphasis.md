@@ -8,3 +8,7 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
+_test_
+**Bold**
+__Bold too__
