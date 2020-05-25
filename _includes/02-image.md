@@ -6,6 +6,6 @@
 
 [GitHub](http://github.com)
 
-[Git] (https://lab.github.com/githubtraining/paths/first-day-on-github)
+[Git](https://lab.github.com/githubtraining/paths/first-day-on-github)
 
 Test Link
