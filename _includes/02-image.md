@@ -1,4 +1,4 @@
- Ensure you include some alt-text.
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -8,4 +8,4 @@
 
 [Git](https://lab.github.com/githubtraining/paths/first-day-on-github)
 
-Test Link
+#Test Link
